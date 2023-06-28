@@ -676,71 +676,98 @@ Set `true` to improve performance.
 
 ![4e8418](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/2281e62e-3fb3-477b-9203-836e78c213ed)
 
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/b/2/b21768ae8d280fe55bef2198b2c2080577721c18.png"/>
 
 * **
 
 ## :sparkle: Nested Scrolling
 Set `false` to improve scrolling.
 
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/b/8/b8269e4dcdeda91fe562f7538c89653e84b952ed.png"/>
+
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/b/5/b518745e5bf1e86a06ec497052ffd176e415fac4.png"/>
 
 * **
 
 ## :sparkle: Over Scroll
 Set `true` to enable over scroll effect.
 
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/2/e/2e2da4a301ceb67bba49e2c13dc3b917187f763f.png"/>
+
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/a/0/a0f37b307368667ccccfff54874ad8ac7c81ec14.png"/>
 
 * **
 
 ## :sparkle: Animation Duration
 Set item animation duration in milliseconds.
 
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/4/b/4b177dabd0cafc53c2f00f351a63b833fce7e482.png"/>
+
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/7/2/722c9e6f203af9edf1e354f01280f4e7c21f4e27.png"/>
 
 * **
 
 ## :sparkle: AlwaysAnimate
 Set `false` to animate only on first scroll.
 
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/3/c/bc1qugrtknpjz52vc4m559q7zumkc4268kp7skrsee.png"/>
+
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/6/b/6baf115fe1909a4e57bf0e6b0c0810f1f0c8f7ad.png"/>
 
 * **
 
 ## :sparkle: Item Animator
 Chage item animation from available animations.
 
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/f/5/f5c7231554933a08508ee0cdd045cd5700775ac1.png"/>
+
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/4/6/4616c79c732562099922a088faf1290a554c81f0.png"/>
 
 * **
 
 ## :sparkle: Available Animations
 Total 51+ animations are available. More animations will be added soon.
 
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/3X/d/c/dc86bbf4b0bc14e0ca90530d2e90001401cf0e75_2_690x379.png"/>
 
 * **
 
 <details>
 <summary>Demo blocks</summary>
+
 * **
 📝 <a href="https://github.com/jewelshkjony/RecyclerNativeAdView/blob/main/files/item.json">item.json</a> - Download demo template json.
 
 📝 <a href="https://github.com/jewelshkjony/RecyclerNativeAdView/blob/main/files/small_template.xml">small_template.xml</a> - Download demo xml layout.
 * **
 
-
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/3X/2/4/2411b14e9c01fab8d11e053a17f8be55eff5dbc7_2_690x366.png"/>
 </details>
+
 * **
 
 <details>
 <summary>Demo output</summary>
 
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/e/e/eef448b6b3a5b5ef4e4ae0ed41d54dda6e31b613.gif"/>
 </details>
+
 * **
 
+# More extensions
+<a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
+
 ## :receipt: Extension Specifications
-* **
-:android: **SDK:** 22.1.0
-:man_lifting_weights: **Size:** 126 KB
-:coin: **Price:** $25 <small>(One time purchase only)</small>
-:coin: **Price:** $30 <small>(Lifetime support + minor updates)</small>
-:coin: **Price:** $35 <small>(Lifetime support + major + minor updates)</small>
-:earth_americas: **Released On:** 28 June 2023 <small>(GMT+06:00)</small>
-:earth_americas: **Updated On:** 28 June 2023 <small>(GMT+06:00)</small>
-:credit_card: **Payment methods:** [Binance](https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV) | [Skrill](https://www.skrill.com/en/) | [Wise](https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=25) | [Pyypl](https://play.google.com/store/apps/details?id=com.pyypl) | [Xoom](https://www.xoom.com/bangladesh/send-money) | [Pay2Me](https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me) | [Paypal](https://www.paypal.com/) | **UPI** <small>(India)</small> | **bKash** <small>(Bangladesh)</small> | **Jazz Cash** <small>(Pakistan)</small>
-* **
+
+⚙️ **SDK:** 22.1.0\
+🏋️‍♂️ **Size:** 126 KB\
+🪙 **Price:** $25 <small>(One time purchase only)</small>\
+🪙 **Price:** $30 <small>(Lifetime support + minor updates)</small>\
+🪙 **Price:** $35 <small>(Lifetime support + major + minor updates)</small>\
+🌏 **Released On:** 28 June 2023 <small>(GMT+06:00)</small>\
+🌏 **Updated On:** 28 June 2023 <small>(GMT+06:00)</small>\
+💳 **Payment methods:** [Binance](https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV) | [Skrill](https://www.skrill.com/en/) | [Wise](https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=25) | [Pyypl](https://play.google.com/store/apps/details?id=com.pyypl) | [Xoom](https://www.xoom.com/bangladesh/send-money) | [Pay2Me](https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me) | [Paypal](https://www.paypal.com/) | **UPI** <small>(India)</small> | **bKash** <small>(Bangladesh)</small> | **Jazz Cash** <small>(Pakistan)</small>
+
+## 📫 How to reach me ↓
+
+<a href="https://t.me/jewelshkjony" target="_blank">Telegram</a> | <a href="https://wa.me/8801775668913" target="_blank">WhatsApp</a> | <a href="https://fb.com/jewelshkjony" target="_blank">Facebook</a> | <a href="https://m.me/jewelshkjony" target="_blank">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1" target="_blank">Youtube</a>
