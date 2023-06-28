@@ -1,0 +1,119 @@
+{
+    "name": "Generated Templated",
+    "metadata-version": 1,
+    "author": "Jewel Shikder Jony",
+    "platforms": [
+        "App Inventor",
+        "Kodular",
+        "Niotron"
+    ],
+    "keys": [],
+    "components": [
+        {
+            "id": "card",
+            "type": "MakeroidCardView",
+            "properties": {
+                "Height": 125,
+                "Width": 384
+            },
+            "components": [
+                {
+                    "id": "HorizontalArrangement",
+                    "type": "HorizontalArrangement",
+                    "properties": {
+                        "AlignVertical": 2,
+                        "BackgroundColor": 1048575,
+                        "Height": -2,
+                        "Width": -2
+                    },
+                    "components": [
+                        {
+                            "id": "Space1",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Width": 2
+                            }
+                        },
+                        {
+                            "id": "icon",
+                            "type": "Image",
+                            "properties": {
+                                "Height": 60,
+                                "Width": 60,
+                                "Picture": "profile.png",
+                                "ScalePictureToFit": true
+                            }
+                        },
+                        {
+                            "id": "Space2",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Width": 5
+                            }
+                        },
+                        {
+                            "id": "Vertical_Arrangement1",
+                            "type": "VerticalArrangement",
+                            "properties": {
+                                "AlignVertical": 2,
+                                "BackgroundColor": 1048575,
+                                "Height": -2,
+                                "Width": -2
+                            },
+                            "components": [
+                                {
+                                    "id": "name",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontBold": true,
+                                        "FontSize": 15,
+                                        "Width": -2,
+                                        "Text": "Name"
+                                    }
+                                },
+                                {
+                                    "id": "description",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontSize": 11,
+                                        "Width": -2,
+                                        "Text": "Description",
+                                        "TextColor": -24803963
+                                    }
+                                },
+                                {
+                                    "id": "category",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontSize": 12,
+                                        "Width": -2,
+                                        "Text": "Category",
+                                        "TextColor": -15226968
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "button",
+                            "type": "Button",
+                            "properties": {
+                                "BackgroundColor": -33126186,
+                                "FontBold": true,
+                                "Height": 35,
+                                "Shape": 2,
+                                "Text": "Button 1"
+                            }
+                        },
+                        {
+                            "id": "Space3",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Width": 2
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
