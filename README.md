@@ -568,175 +568,169 @@ Set true to animate the native ad view on scrolling.
 ## :sparkle: Left Swipable
 Set `true` to enable left swipe on items.
 
-![image|253x42](upload://o7SSKi787cS8SdsVcuYC2cTnyly)
+![a9178](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/c9e6a2fd-423d-41e0-b732-1ae0c51276e9)
 
-![image|384x88](upload://9GXB6oDtOcMXDVPFuY5pN2AxH3h.png)
+![43e2f](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/125f0ca7-58a7-4aca-b7fa-e43ef714087e)
 * **
 
 ## :sparkle: Swipe Left Background Color
 Change background color of left swiped view.
 
-![image|288x71](upload://yt4sWZcGegywuEgkWj4zehElA6h)
+![f8cd](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/8758edfa-bfa4-4ad6-a545-b4eb25988297)
 
-![image|460x83](upload://zW1SP7ssvMcUoRtcgrXersOciT2.png)
+![fb5439c](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/2001af6c-5f74-447b-a721-bc569259e653)
+
 * **
 
 ## :sparkle: Swipe Left Label Color
 Change the label color of swiped left label text.
 
-![image|286x75](upload://2vtm1oBBRIz4pnhg8T2hzg2oDS8)
+![11058](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/d7cfbe35-a0d5-4ea4-bf0d-2f3ccde690ce)
 
-![image|412x89](upload://fbfZThX9BFgRxsKmR44yN8LBtwr.png)
+![6a6de57](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/ee30e749-174b-4feb-88d0-641b45476584)
 * **
 
 ## :sparkle: Swipe Left Label
 Change swipe left label text. Make it empty to disable swipe left label text.
 
-![image|282x68](upload://mZd3WYQ09K2O7sPTUSbM2PBeNPg)
+![a152e](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/865b0989-5e70-402d-bfbe-611cb4306c5e)
 
-![image|387x76](upload://v0QdGcAGPdngtPqs597f3ZXpuDe.png)
+![d95bc0080](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/2bf8ad47-1cf0-4872-83e8-cce5e901f8df)
 * **
 
 ## :sparkle: Swipe Left Label Size
 Change swipe left label text size.
 
-![image|285x70](upload://psTJ8WU3ZRsC1jMiyKz8EL0XrnU)
+![b2757e](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/5f0a6473-8021-4c25-b566-cc422bd741f6)
 
-![image|420x86](upload://cModsyvHHA8wKkphO5DHapc0SGK.png)
+![59d0d2](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/3b58ad51-e6fe-44c1-a4f1-5a92ab5e138a)
 * **
 
 ## :sparkle: Swipe Left Icon
 Set image on swipe left view. Make it empty to disable swipe left icon.
 
-![image|284x66](upload://yTgdtXPKymuc2neWrD95aj2kqVc)
+![f666a062](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/0983b7b9-9276-4bec-9742-2127e4ef4a62)
 
-![image|378x81](upload://59mAAQtw82uuopMI5M5gFhWzHV9.png)
+![24eec2b](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/972c6e06-cea9-4c33-8bce-92a163eb0956)
 * **
 
 ## :sparkle: Right Swipable
 Set `true` to enable right swipe.
 
-![image|257x42](upload://p3UzT0zYNlQbJzgRncCLIGPzXto)
+![afa81d5862](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/0fde9a09-76ab-46b3-94cf-7bf5ddc37fa6)
 
-![image|390x80](upload://tL19lI6howvEV39iuld0qWwwBkg.png)
+![d0870b3bc](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/395f5b25-18c3-4f07-a5dc-effebfa94592)
 * **
 
 ## :sparkle: Swipe Right Background Color
 Change background color of right swiped view.
 
-![image|280x68](upload://lfSnlO35upmtTcqFeK5ZxqyW8qS)
+![94f94472](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/7f0ae2a2-7e24-47a7-9aa3-8395681f142a)
 
-![image|452x80](upload://aThdROzRHkfdnv0LQfPbQZqglNr.png)
+![4c55610094d](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/79b01286-3c13-4392-912f-51444e16ac2c)
 * **
 
 ## :sparkle: Swipe Right Label Color
 Change the label color of swiped view.
 
-![image|284x68](upload://xIB5a5Ob0dtK9pX01llwQZFAuGu)
+![eca92](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/f019c272-e648-4919-b5a7-0957d78ffc9f)
 
-![image|426x90](upload://sY7HSRtiYC74gYDChPJ39Sy0QhN.png)
+![c75603f](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/90905176-bb4f-4455-a09e-2c080f984803)
+
 * **
 
 ## :sparkle: Swipe Right Label
 Change the text for swipe right text. Make it empty to disable swipe right label.
 
-![image|280x65](upload://86ReiiJEWXQ6hCaXhnhKZpNQN1D)
+![38d7bdb9](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/fb96642c-3b87-4083-bfd4-8bc029cf4e9a)
 
-![image|388x81](upload://gIx2AG4HCyFNb3jl9PzHf98ythe.png)
+![752b78730](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/b9411e7a-f164-4568-9ab3-1fd8bec41377)
 * **
 
 ## :sparkle: Swipe Right Label Size
 Change the text size of swipe right label.
 
-![image|281x69](upload://vujQl4A7w87e9NRM6T0xmGBmf2L)
+![dc521f47](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/ff5339c4-4779-4aa1-a686-fdd5bd0d44eb)
 
-![image|409x82](upload://b9JiMyHlTaWLU4olY9RMYNp38g9.png)
+![4e3fd861](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/b0a7def8-322a-4e88-83ad-ec3e8ed7f939)
 * **
 
 ## :sparkle: Swipe Right Icon
 Set the swipe right icon, set None or make it empty to disable swipe right icon.
 
-![image|282x63](upload://pxKkZ5phWChbTejvgX0hSBuJlIS)
+![d740a](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/4c224b07-9bee-4c4c-8176-9ed3eb27bdba)
 
-![image|375x79](upload://myBIKyCyWrmG6Myr1Ub0Jlow3AB.png)
+![909](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/f245955c-1ff1-4afa-8708-88d93b851c9a)
 * **
 
 ## :sparkle: Draggable
 Set `true` to enable dragging items between them.
 
-![image|257x44](upload://eIpJBRv8TVzaNo8MRdPEDfeIM9N)
+![637f](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/01e843f0-0846-44c3-ada9-3bebba6687ff)
 
-![image|363x76](upload://6dUGpYqbesmlvdi9fKsah3do6zI.png)
+![2ba21ae](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/d2b45c59-98be-411c-becc-9a946751a669)
 * **
 
 ## :sparkle: Fixed Size
 Set `true` to improve performance.
 
-![image|234x42](upload://beDaN7d206LSKzoFb0r19ek9g3C)
+![4e8418](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/2281e62e-3fb3-477b-9203-836e78c213ed)
 
-![image|361x73](upload://ppt8S65A0hdXuL8RCSM4osRAicU.png)
+
 * **
 
 ## :sparkle: Nested Scrolling
 Set `false` to improve scrolling.
 
-![image|254x40](upload://qh4APwt94ZJX3CaaXMst13M422F)
 
-![image|388x74](upload://pQ2OzZuHJld2RzM9mkscoix4NKI.png)
 * **
 
 ## :sparkle: Over Scroll
 Set `true` to enable over scroll effect.
 
-![image|249x39](upload://6AvKIFUiZc7qDoPrKRvn5p2sfpl)
 
-![image|365x76](upload://mXQ3bp9zZ59sDUYDbSFrqUyU6ri.png)
 * **
 
 ## :sparkle: Animation Duration
 Set item animation duration in milliseconds.
 
-![image|280x67](upload://aIi8DvK42hdNkZSMaDP7F0svijo)
 
-![image|412x86](upload://gi21GlZS3jHtAyAMKjYpwJXRfNB.png)
 * **
 
 ## :sparkle: AlwaysAnimate
 Set `false` to animate only on first scroll.
 
-![image|240x45](upload://8DXO68MtYABoK53H4qyR1h2e4Id)
 
-![image|386x86](upload://fmCaztf6k2KIPIWSHHAmsG20P49.png)
 * **
 
 ## :sparkle: Item Animator
 Chage item animation from available animations.
 
-![image|282x66](upload://z4fD1rVx4Xji8idVoUwFNaywbVD)
 
-![image|395x84](upload://a02e9vvGmzdQ9gpxdR1fB0s4EsE.png)
 * **
 
 ## :sparkle: Available Animations
 Total 51+ animations are available. More animations will be added soon.
 
-![image|690x379](upload://vsRI1ZDms4JOwayd2suaa83PswJ.png)
+
 * **
 
-[details="Demo blocks"]
+<details>
+<summary>Demo blocks</summary>
 * **
 📝 <a href="https://github.com/jewelshkjony/RecyclerNativeAdView/blob/main/files/item.json">item.json</a> - Download demo template json.
 
 📝 <a href="https://github.com/jewelshkjony/RecyclerNativeAdView/blob/main/files/small_template.xml">small_template.xml</a> - Download demo xml layout.
 * **
 
-![blocks|690x366](upload://5955TPt2CzPBLpRdgvtNjGB6tpB.png)
-[/details]
+
+</details>
 * **
 
-[details="Demo output"]
-![RecyclerNativeAdDemo|240x426](upload://y5T0SdoNSvmuTc0g45RaDgnF4BB.gif)
-[/details]
+<details>
+<summary>Demo output</summary>
+
+</details>
 * **
 
 ## :receipt: Extension Specifications
