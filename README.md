@@ -758,7 +758,7 @@ Total 51+ animations are available. More animations will be added soon.
 <a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
 
 ## :receipt: Extension Specifications
-
+<img src="https://github.com/jewelshkjony/GooglePlayBilling/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.admob.recyclernativeadview.aix</a> (126 KB) \
 ⚙️ **SDK:** 22.1.0\
 🏋️‍♂️ **Size:** 126 KB\
 🪙 **Price:** $25 <small>(One time purchase only)</small>\
