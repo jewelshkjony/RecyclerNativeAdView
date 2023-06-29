@@ -741,7 +741,8 @@ Total 51+ animations are available. More animations will be added soon.
 📝 <a href="https://github.com/jewelshkjony/RecyclerNativeAdView/blob/main/files/small_template.xml">small_template.xml</a> - Download demo xml layout.
 * **
 
-<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/3X/2/4/2411b14e9c01fab8d11e053a17f8be55eff5dbc7_2_690x366.png"/>
+![blocks](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/2e7c7e75-9b53-4393-b4ee-daaf5cf8ab8a)
+
 </details>
 
 * **
@@ -749,7 +750,8 @@ Total 51+ animations are available. More animations will be added soon.
 <details>
 <summary>Demo output</summary>
 
-<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/e/e/eef448b6b3a5b5ef4e4ae0ed41d54dda6e31b613.gif"/>
+![RecyclerNativeAdDemo](https://github.com/jewelshkjony/RecyclerNativeAdView/assets/75406851/418e697b-dfb2-4275-bb55-fbf1b4f4a142)
+
 </details>
 
 * **
