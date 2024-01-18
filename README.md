@@ -768,7 +768,6 @@ Total 51+ animations are available. More animations will be added soon.
 🪙 **Price:** $35 <small>(Lifetime support + major + minor updates)</small>\
 🌏 **Released On:** 28 June 2023 <small>(GMT+06:00)</small>\
 🌏 **Updated On:** 28 June 2023 <small>(GMT+06:00)</small>\
-💳 **Payment methods:** [Binance](https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV) | [Skrill](https://www.skrill.com/en/) | [Wise](https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=25) | [Pyypl](https://play.google.com/store/apps/details?id=com.pyypl) | [Xoom](https://www.xoom.com/bangladesh/send-money) | [Pay2Me](https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me) | [Paypal](https://www.paypal.com/) | **UPI** <small>(India)</small> | **bKash** <small>(Bangladesh)</small> | **Jazz Cash** <small>(Pakistan)</small>
 
 ## 📫 How to reach me ↓
 
